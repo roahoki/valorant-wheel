@@ -4,7 +4,7 @@
   "description": "A wheel for random Valorant agent picks.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "live-server --port=8080 --no-browser --ignore='node_modules'"
   },
   "keywords": [],
   "author": "",
